@@ -1,5 +1,9 @@
 # Tridentine liturgical calendar calculator
 
+This is a fork of the [Tridentine liturgical calendar calculator](https://joe-antognini.github.io/tridentine-calendar/) created by Joe Antognini, with an alternative functionality offered: to export the feasts as a CSV instead of an .ics file.
+
+The original README file continues below.
+
 This code will calculate the feasts and ferias using the 1962 Roman Catholic
 calendar rubrics.  The code can export the resulting calendar as an `.ics` file
 which can then be imported by any calendar application, including Google
